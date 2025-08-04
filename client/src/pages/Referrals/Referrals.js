@@ -1,0 +1,1 @@
+import React from 'react'; function Referrals() { return (<div className="container-custom py-8"><h1 className="text-3xl font-bold text-gray-900 mb-8">Referrals</h1><p className="text-gray-600">Referrals page coming soon...</p></div>); } export default Referrals;

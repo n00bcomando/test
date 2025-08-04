@@ -1,0 +1,1 @@
+import React from 'react'; function Deposits() { return (<div className="container-custom py-8"><h1 className="text-3xl font-bold text-gray-900 mb-8">Deposits</h1><p className="text-gray-600">Deposits page coming soon...</p></div>); } export default Deposits;
